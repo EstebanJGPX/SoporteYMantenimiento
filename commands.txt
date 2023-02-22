@@ -1,0 +1,33 @@
+
+--comandoos vscoode
+-> abrir terminal :ctrl + Shift + Ñ
+-> editar varias lineas : Alt + btn izq
+-> identar codigo  : Shift+ Alt + F
+
+
+
+
+-> <bre/> salto de linea
+
+
+--Comandos git ----
+
+COMANDOS DE CONFIGURACION 
+
+  -> git init
+
+  -> git config user.name "NOMBRe"
+
+  -> git config user.email "correo@servidor"
+
+  -> git config core.autocrlf wind: true    //linux-MAC: input
+
+COMANDOS PARA AGREGAR ARCHIVOS DE SEGUIMIENTO 
+
+   -> git add NOMBREARICHIVO
+
+   -> git add .
+
+   -> git  rm -cached NOMBREARCHIVO
+
+
